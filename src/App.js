@@ -1,9 +1,12 @@
 import "./App.css";
-import Home from "./pages/Home";
-import CourseDetail from "./pages/CourseDetail";
+import RouterPage from "./pages/Router";
 
 function App() {
-  return Home;
+  return (
+    <div>
+      <RouterPage />
+    </div>
+  );
 }
 
 export default App;
