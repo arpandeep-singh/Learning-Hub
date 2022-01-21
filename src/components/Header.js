@@ -23,7 +23,7 @@ class Header extends React.Component {
                 {/* <!-- Header Logo Start --> */}
                 <div class="header-logo">
                   <a href="index.html">
-                    <img src="assets/images/logo.png" alt="Logo" />
+                    {/* <img src="assets/images/logo.png" alt="Logo" /> */}
                   </a>
                 </div>
                 {/* <!-- Header Logo End --> */}

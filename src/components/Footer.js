@@ -13,7 +13,7 @@ class Footer extends React.Component {
                   <div class="footer-widget">
                     <div class="widget-logo">
                       <a href="/#">
-                        <img src="assets/images/logo.png" alt="Logo" />
+                        {/* <img src="assets/images/logo.png" alt="Logo" /> */}
                       </a>
                     </div>
 
